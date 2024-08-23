@@ -1,15 +1,28 @@
 {
-  "response": [
-    {
-        "maintainer": "Okada",
-        "oem": "Samsung",
-        "device": "M515F",
-        "filename": "",
-        "download": "",
-        "timestamp": ,
-        "md5": "",
-        "size": ,
-        "version": ""
-    }
-  ]
+	"response": [
+		{
+			"maintainer": "Okada",
+			"oem": "Samsung",
+			"device": "M51",
+			"filename": "RisingOS-5.0-FINAL-20240823-VANILLA-COMMUNITY-m51-ota.zip",
+			"download": "https://t.me/M51Files/39",
+			"timestamp": 1724381045,
+			"md5": "b5cee818b5135865d37eb358bbe649b5",
+			"sha256": "1164db52d2bbbc31db06b63f8088593ab76c15ceb7ef8a2532bff3fbe673d6f6",
+			"size": 1338393859,
+			"version": "5.0-Lyonesse",
+			"buildtype": "RELEASE",
+			"forum": "https://t.me/SammyM51Mods",
+			"gapps": "No",
+			"firmware": "M515FXXS6DXE3",
+			"modem": "M515FXXS6DXE3",
+			"bootloader": "6",
+			"recovery": "https://t.me/M51Files/40",
+			"paypal": "",
+			"telegram": "https://t.me/YuichiGojo",
+			"dt": "https://github.com/yuichigojo/device_m51",
+			"common-dt": "https://github.com/yuichigojo/device_sm6150-common",
+			"kernel": "https://github.com/yuichigojo/kernel_m51"
+		}
+	]
 }
